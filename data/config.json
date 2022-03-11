@@ -1,0 +1,13 @@
+{
+  "FilePath" : "../data/",
+  "Parameters" : {
+    "Single_Z_Plasty_Angle_Start" : "",
+    "Single_Z_Plasty_Angle_End" : "",
+    "Single_Z_Plasty_Angle_Step_Size" : "",
+    "Series_Z_Plasty_Angle_Start" : "",
+    "Series_Z_Plasty_Angle_End" : "",
+    "Series_Z_Plasty_Angle_Step_Size" : ""
+  }
+}
+
+
